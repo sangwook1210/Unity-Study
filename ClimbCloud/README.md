@@ -23,6 +23,6 @@ https://youtube.com/shorts/xgjm2OUYTyw<br>
 - 고양이가 깃발에 도착한다면 ClearScene으로 전환
 
 
-● 실행 환경<br>
+● 실행 환경
 
 Android, Galaxy S10 5G<br>
