@@ -1,13 +1,14 @@
 # CatEscape
 
 ● 게임 스크린샷 / 플레이 영상<br>
+![KakaoTalk_20230226_223640701_05](https://user-images.githubusercontent.com/112921582/221416259-6b0f9ca6-88a4-4fb7-9ed3-a6df2eead5dc.jpg)<br>
 
 
 https://youtu.be/6W5PmWCWT3k<br>
 
 ● 게임 소개<br>
 
-스마트폰을 좌우로 기울이거나 터치를 통하여 고양이를 조작하여 구름 위를 올라가는 게임<br>
+화면 양 옆의 화살표 ui를 터치하여 고양이를 조작하여 하늘에서 떨어지는 화살표를 피하는 게임
 
 ● 게임 기획
 
