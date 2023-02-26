@@ -1,13 +1,13 @@
 # Bamsongi
 
 ● 게임 스크린샷 / 플레이 영상<br>
+![KakaoTalk_20230226_223640701_03](https://user-images.githubusercontent.com/112921582/221416931-ae0732ae-107c-4c87-8399-5b010153cc18.jpg)
 
-
-https://youtube.com/shorts/xgjm2OUYTyw<br>
+https://youtu.be/bj5UwFEKsJ0<br>
 
 ● 게임 소개<br>
 
-스마트폰을 좌우로 기울이거나 터치를 통하여 고양이를 조작하여 구름 위를 올라가는 게임<br>
+화면을 터치하여 밤송이를 발사해 과녁에 적중시키는 게임
 
 ● 게임 기획
 
