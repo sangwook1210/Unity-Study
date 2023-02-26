@@ -1,6 +1,7 @@
 # Bamsongi
 
 ● 게임 스크린샷 / 플레이 영상<br>
+
 ![KakaoTalk_20230226_223640701_03](https://user-images.githubusercontent.com/112921582/221416931-ae0732ae-107c-4c87-8399-5b010153cc18.jpg)
 
 https://youtu.be/bj5UwFEKsJ0<br>
@@ -11,7 +12,9 @@ https://youtu.be/bj5UwFEKsJ0<br>
 
 ● 게임 기획
 
-- Input.acceleration.x를 통하여 플레이어가 스마트폰을 기울이는 것을 통하여 고양이를 좌우로 이동하도록 설정
+- 과녁에 Collider 설정
+- 밤송이가 중력에 영향을 받도록 Rigidbody와 Collider 설정
+- `OnCollisionEcter(Collision other)`를 통하여 밤송이와 과녁의 충돌을 감지한 후 `GetComponent<Rigidbody>.isKinematic = true;`를 통하여 밤송이를 정지시킴
 - GetMouseButtonDown(0)을 통하여 화면을 터치하면 고양이가 점프하도록 설정
 - 고양이의 y축 속도가 0일 때문에만 점프가 가능하도록 설정하여 점프가 연속으로 되지 않도록 설정
 - 걷기와 점프 행동을 할 때 애니메이션 재생
