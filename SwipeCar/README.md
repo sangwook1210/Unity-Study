@@ -7,7 +7,7 @@
 https://youtu.be/pCxyH3ogkYg<br>
 
 ● 게임 소개<br><br>
-화면을 드래그하여 자동차를 움직여 골대에 최대한 가까이 놓는 게임<br><br>
+화면을 드래그하여 자동차를 움직여 골대에 최대한 가까이 놓는 게임<br>
 
 ● 게임 기획<br>
 - GetMouseButtonDown과 GetMouseButtonUp의 좌표의 차를 이용하여 자동차를 움직일 거리를 결정
