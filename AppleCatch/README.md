@@ -15,12 +15,10 @@ https://youtu.be/6RGKBuDhIY4<br>
 - 떨어지는 과일과 폭탄의 그림자가 보일 수 있도록 라이트를 설정
 - Input.mousePosition을 통해 스크린 좌표를 구하고, ScreenPointToRay 함수를 통하여 카메라 좌표에서 게임 화면 안쪽 방향으로 향해 나가는 광선을 구하고, 이를 통해 바구니의 위치 변경
 - 바구니에는 Collider와 Rigidbody를 적용하고, 사과와 폭탄에는 Collider만 적용
+- 떨어지는 오브젝트는 랜덤한 위치에 생성되고, 사과와 폭탄은 일정한 확률로 생성됨
 - 사과를 받을 때와 폭탄을 받을 때의 효과음을 각각 출력
-- 밤송이가 중력에 영향을 받도록 Rigidbody와 Collider 설정
-- `OnCollisionEcter(Collision other)`를 통하여 밤송이와 과녁의 충돌을 감지한 후, `GetComponent<Rigidbody>.isKinematic = true;`를 통하여 밤송이를 정지시킴
-- 파티클을 설정하여 밤송이가 과녁에 충돌하였을 때 파티클이 재생되도록 설정
-- `Camera.main.ScreenPointToRay(Input.mousePosition)`을 통하여 카메라에서 스크린 좌표로 향하는 월드 좌표계 벡터를 사용하여 밤송이를 날림
-
+- UI에 제한 시간과 점수를 표시, 점수는 사과를 받으면 100점씩 증가하고 폭탄을 받으면 절반으로 감소
+- 총 시간은 30초로 설정, 시간이 지나면 지날수록 떨어지는 오브젝트의 생성 개수를 증가시키고, 폭탄이 생성될 확률을 증가시킴
 
 ● 실행 환경
 
