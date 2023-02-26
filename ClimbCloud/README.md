@@ -2,8 +2,7 @@
 
 ● 게임 스크린샷 / 플레이 영상<br>
 
-![KakaoTalk_20230226_223640701_01](https://user-images.githubusercontent.com/112921582/221415099-8cf0e635-611a-4482-bb92-c9e4c92797e9.jpg)
-![KakaoTalk_20230226_223640701](https://user-images.githubusercontent.com/112921582/221415102-c6bc104a-1d04-4456-9f53-176ce34b0638.jpg)
+
 
 https://youtu.be/pCxyH3ogkYg<br>
 
