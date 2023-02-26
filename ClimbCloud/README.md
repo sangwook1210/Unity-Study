@@ -1,6 +1,7 @@
 # ClimbCloud
 
 ● 게임 스크린샷 / 플레이 영상<br>
+![KakaoTalk_20230226_223640701_01 - 복사본](https://user-images.githubusercontent.com/112921582/221415229-be55425e-0d81-4513-aec7-9c25a950e6ad.jpg)
 
 
 
