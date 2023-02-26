@@ -12,7 +12,10 @@ https://youtu.be/6RGKBuDhIY4<br>
 
 ● 게임 기획
 
-- 과녁에 Collider 설정
+- 떨어지는 과일과 폭탄의 그림자가 보일 수 있도록 라이트를 설정
+- Input.mousePosition을 통해 스크린 좌표를 구하고, ScreenPointToRay 함수를 통하여 카메라 좌표에서 게임 화면 안쪽 방향으로 향해 나가는 광선을 구하고, 이를 통해 바구니의 위치 변경
+- 바구니에는 Collider와 Rigidbody를 적용하고, 사과와 폭탄에는 Collider만 적용
+- 사과를 받을 때와 폭탄을 받을 때의 효과음을 각각 출력
 - 밤송이가 중력에 영향을 받도록 Rigidbody와 Collider 설정
 - `OnCollisionEcter(Collision other)`를 통하여 밤송이와 과녁의 충돌을 감지한 후, `GetComponent<Rigidbody>.isKinematic = true;`를 통하여 밤송이를 정지시킴
 - 파티클을 설정하여 밤송이가 과녁에 충돌하였을 때 파티클이 재생되도록 설정
