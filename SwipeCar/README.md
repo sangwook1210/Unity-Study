@@ -17,5 +17,6 @@ https://youtu.be/pCxyH3ogkYg<br>
 - 자동차가 움직일 때마다 소리 출력
 
 
-● 실행 환경<br><br>
+● 실행 환경<br>
+
 Android, Galaxy S10 5G<br>
