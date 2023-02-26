@@ -2,9 +2,9 @@
 
 ● 게임 스크린샷 / 플레이 영상<br>
 
+![KakaoTalk_20230226_223640701_02](https://user-images.githubusercontent.com/112921582/221417799-e40b1069-8a9b-4d36-bad2-f065482f4ac7.jpg)
 
-
-https://youtu.be/bj5UwFEKsJ0<br>
+https://youtu.be/6RGKBuDhIY4<br>
 
 ● 게임 소개<br>
 
