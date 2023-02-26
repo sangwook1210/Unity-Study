@@ -1,9 +1,7 @@
 # ClimbCloud
 
 ● 게임 스크린샷 / 플레이 영상<br>
-![KakaoTalk_20230226_223640701_01 - 복사본](https://user-images.githubusercontent.com/112921582/221415275-6424fda8-9bd3-4dbe-9f51-69054af87f1d.jpg)
-
-![KakaoTalk_20230226_223640701 - 복사본](https://user-images.githubusercontent.com/112921582/221415277-ccd5a60d-03b7-4636-a497-1a2895c1cdc8.jpg)
+![KakaoTalk_20230226_223640701_01 - 복사본](https://user-images.githubusercontent.com/112921582/221415275-6424fda8-9bd3-4dbe-9f51-69054af87f1d.jpg)![KakaoTalk_20230226_223640701 - 복사본](https://user-images.githubusercontent.com/112921582/221415277-ccd5a60d-03b7-4636-a497-1a2895c1cdc8.jpg)
 
 
 
