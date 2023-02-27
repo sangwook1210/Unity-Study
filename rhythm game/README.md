@@ -1,7 +1,6 @@
 # rhythm game
 
 ● 게임 스크린샷 / 플레이 영상<br>
-![2023-02-27 14-50-54_1](https://user-images.githubusercontent.com/112921582/221486822-4c70be90-bb0e-4972-aeb3-43edbddbf898.gif)<br><br>
 ![ezgif-3-5ee17e2899](https://user-images.githubusercontent.com/112921582/221488198-06c7a3ae-4f1e-4cf4-b56b-5ba9949fc23a.gif)<br><br>
 
 
